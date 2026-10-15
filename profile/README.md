@@ -6,7 +6,7 @@ Authex Labs manages the controls behind company email for small businesses: whic
 
 Authex Labs maintains supported delegated email-authentication controls and provides read-only Microsoft 365 access reviews within granted permissions and licence limits. Supported changes require customer authority and verification, with recorded evidence and human help for exceptions. Authex Labs does not read email content.
 
-Authex Labs is operated by [Hemanth Vishnu Advisory](https://hemanthvishnu.com), the sole proprietorship of Hemanth Vishnu Akula, based in New Delhi, India.
+Authex Labs is a brand of [Hemanth Vishnu Advisory](https://hemanthvishnu.com), an Indian sole proprietorship owned by Akula Hemanth Vishnu.
 
 New signups are paused. Existing customers continue under their agreed arrangements.
 
